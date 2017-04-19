@@ -1,0 +1,12 @@
+.column {
+  float: left;
+  width: 300px;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
