@@ -1,6 +1,7 @@
 .column {
   float: left;
   width: 300px;
+  background-color: green;
 }
 
 h2 {
@@ -9,4 +10,16 @@ h2 {
 
 img {
   width: 200px;
+}
+
+.column2 {
+  float: left;
+  width: 300px;
+  background-color: blue;
+}
+
+.column3 {
+  float: left;
+  width: 300px;
+  background-color: red;
 }
